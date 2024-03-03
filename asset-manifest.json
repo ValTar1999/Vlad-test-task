@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vlad-test-task/static/css/main.2ed4893a.css",
+    "main.js": "/Vlad-test-task/static/js/main.dc5686e6.js",
+    "static/js/453.6393fe9b.chunk.js": "/Vlad-test-task/static/js/453.6393fe9b.chunk.js",
+    "index.html": "/Vlad-test-task/index.html",
+    "main.2ed4893a.css.map": "/Vlad-test-task/static/css/main.2ed4893a.css.map",
+    "main.dc5686e6.js.map": "/Vlad-test-task/static/js/main.dc5686e6.js.map",
+    "453.6393fe9b.chunk.js.map": "/Vlad-test-task/static/js/453.6393fe9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ed4893a.css",
+    "static/js/main.dc5686e6.js"
+  ]
+}
